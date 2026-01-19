@@ -1,0 +1,8 @@
+torch>=2.0.0
+numpy
+transformers>=4.30.0
+tiktoken
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+
